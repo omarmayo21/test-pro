@@ -1,0 +1,16 @@
+{
+  "name": "Mohamed Ashraf — Senior Graphic Designer",
+  "short_name": "Mohamed Ashraf",
+  "description": "Senior Graphic Designer with 15+ years of experience in visual campaigns, brand identity, and social media design.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#161715",
+  "theme_color": "#161715",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
